@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Riya, a self-taughtdata analyst from India.
+I'm Riya, a self-taught data analyst from India.
 
  ### ⚡About me⚡
 
