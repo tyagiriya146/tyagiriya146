@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**tyagiriya146/tyagiriya146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Riya, a self-taughtdata analyst from India.
 
-Here are some ideas to get you started:
+ ### ⚡About me⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍💻 Seo Executive aspiring data analyst
+📝 Taught myself SQL, Python and Power BI,Excel
+
+### ⚡Core Competencies⚡
+
+Tools: SQL, Python, Power BI,Excel
+Skills: Data Cleaning , Data Visualisation, Data Analysis, , Dashboard Design 
+
