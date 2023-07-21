@@ -2,7 +2,7 @@
 
 
 
- ### ⚡About me⚡
+ ### ⚡About me
 
 👩🏻‍💻 Seo Executive aspiring data analyst
 
