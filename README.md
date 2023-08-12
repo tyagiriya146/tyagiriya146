@@ -2,7 +2,7 @@
 
 
 
- ### ⚡About me
+ ### About me
 
 👩🏻‍💻 Seo Executive aspiring data analyst
 
@@ -11,7 +11,7 @@
 👀 I’m interested in  data analyst. However, I am new in this field so I'm taking one step at a time.
 
 
-### ⚡Core Competencies⚡
+### Core Competencies
 
 Tools: SQL, Python, Power BI,Excel
 Skills: Data Cleaning , Data Visualisation, Data Analysis, , Dashboard Design 
